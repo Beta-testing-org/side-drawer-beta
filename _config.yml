@@ -1,0 +1,11 @@
+title: Rotary E-Club of All Star CAMANAVA
+description: A non-governmental service organization serving Caloocan, Malabon, Navotas and Valenzuela.
+baseurl: "/side-drawer-beta"
+url: "https://beta-testing-org.github.io"
+
+# Standard Jekyll Theme Mapping
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
